@@ -1,0 +1,49 @@
+# Eric Clapton – Change the World
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+If I could reach the stars
+Pull one down for you
+Shine it on the heart
+So you could see the truth
+That this love I have inside
+Is everything it seems
+But for now I find
+It's only in my dreams
+If I can change the world
+I'll be the sunlight in your
+universe
+You would think my love
+was really something good
+Baby, if I could
+change the world
+If I could be king
+Even for a day
+I'd take you as my queen
+I'd have it no other way
+And our love will rule
+In this Kingdom we have made
+Till then I'd be a fool
+Wishing for the day
+If I can change the world
+I'll be the sunlight in your
+universe
+You would think my love
+was really something good
+Baby, if I could
+change the world
+Baby, if I could
+change the world
+If I could change the world
+I would be the sunlight
+in your universe
+You would think my love
+was really something good
+Baby, if I could
+change the world
+Baby, if I could
+change the world
+Baby, if I could
+change the world
+```
