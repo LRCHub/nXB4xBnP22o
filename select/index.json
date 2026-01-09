@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Change the World",
+  "base_artist": "Eric Clapton",
+  "createdAt": "2026-01-09T11:40:26.725871Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Don't Want To Change The World - Live",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/01_I_Don't_Want_To_Change_The_World_-_Live_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Don't Want to Change the World (live)",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/02_I_Don't_Want_to_Change_the_World_(live)_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Man Can Change The World",
+      "artist": "Big Sean feat. Kanye West & John Legend",
+      "has_synced": true,
+      "path": "select/03_One_Man_Can_Change_The_World_Big_Sean_feat._Kanye_West_&_John_Legend.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Man Can Change The World (feat. Kanye West & John Legend)",
+      "artist": "Big Sean",
+      "has_synced": true,
+      "path": "select/04_One_Man_Can_Change_The_World_(feat._Kanye_West_&_John_Legend)_Big_Sean.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Change the World",
+      "artist": "Dokken",
+      "has_synced": true,
+      "path": "select/05_Change_the_World_Dokken.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Change the World (demo 1)",
+      "artist": "Alphaville",
+      "has_synced": false,
+      "path": "select/06_Change_the_World_(demo_1)_Alphaville.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Don't Want to Change the World",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/07_I_Don't_Want_to_Change_the_World_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Don't Want To Change The World (Live)",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/08_I_Don't_Want_To_Change_The_World_(Live)_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Don't Want To Change The World - Demo",
+      "artist": "Ozzy Osbourne",
+      "has_synced": false,
+      "path": "select/09_I_Don't_Want_To_Change_The_World_-_Demo_Ozzy_Osbourne.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Don’t Want to Change the World (demo)",
+      "artist": "Ozzy Osbourne",
+      "has_synced": false,
+      "path": "select/10_I_Don’t_Want_to_Change_the_World_(demo)_Ozzy_Osbourne.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Don’t Want to Change the World (live)",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/11_I_Don’t_Want_to_Change_the_World_(live)_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Change The World",
+      "artist": "P.O.D.",
+      "has_synced": true,
+      "path": "select/12_Change_The_World_P.O.D..lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Change the World",
+      "artist": "The Veronicas",
+      "has_synced": true,
+      "path": "select/13_Change_the_World_The_Veronicas.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Change the World",
+      "artist": "The Veronicas",
+      "has_synced": true,
+      "path": "select/14_Change_the_World_The_Veronicas.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Change the World",
+      "artist": "Juliana Hatfield",
+      "has_synced": true,
+      "path": "select/15_Change_the_World_Juliana_Hatfield.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "CHANGE the WORLD",
+      "artist": "BiS",
+      "has_synced": false,
+      "path": "select/16_CHANGE_the_WORLD_BiS.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "CHANGE the WORLD",
+      "artist": "BiS (Japan)",
+      "has_synced": false,
+      "path": "select/17_CHANGE_the_WORLD_BiS_(Japan).txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Change The World With My Hockey Stick",
+      "artist": "The Vandals",
+      "has_synced": false,
+      "path": "select/18_Change_The_World_With_My_Hockey_Stick_The_Vandals.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Change The World",
+      "artist": "Ace Frehley",
+      "has_synced": true,
+      "path": "select/19_Change_The_World_Ace_Frehley.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Change The World",
+      "artist": "Eric Clapton",
+      "has_synced": false,
+      "path": "select/pl_01_Change_The_World_Eric_Clapton.txt"
+    }
+  ]
+}
